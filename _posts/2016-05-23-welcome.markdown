@@ -17,4 +17,4 @@ My job specification system was too rigid so I decided to create a plugin system
 
 Looking back at my work from college it is clear that had I been in silicon valley I would've pursued venture funding and formed a company around this idea.  Hadoop today is one of the most popular distributed computing platforms in the world.  Rider University can take something away from this.  Take a lesson from MIT and Stanford and consider taking your students projects and starting companies around them.  I sent an email to Rider asking to open source my code since it's been ages and as far as I'm aware nothing has been done with the code.  I'll update this blog if that endeavor is successful.  
 
-Update 5-28-15: Good news! I talked to my independent study professor and he said it would be fine to open source the work. I'll post the link here once I upload it. 
+Update 5-28-15: Good news! I talked to my independent study professor and he said it would be fine to open source the work. https://github.com/cholcombe973/GeneToolkit
