@@ -2,12 +2,12 @@
 layout: post
 title: The Gluster charm supports ZFS now
 ---
-Starting with Ubuntu 16.04 the Gluster charm can now setup bricks with ZFS.  How
-does this work?  It's all rather easy from the deployment perspective.  Lets
+Starting with Ubuntu 16.04, the Gluster charm can now setup bricks with ZFS.  How
+does this work?  It's all rather easy from the deployment perspective.  Let's
 take a look:
 
-Lets deploy a 3 server cluster to Amazon EC2 with ZFS. First we need to write
-some quick yaml to set parameters:
+Let's deploy a 3 server cluster to Amazon EC2 with ZFS. 
+First we need to write some quick yaml to set parameters:
 ```yaml
 gluster:
   volume_name: "test"
