@@ -78,5 +78,12 @@ possible number field of signed 64 bit.  This also doesn't tell me if the number
 string could possibly be a floating point number at some point in its life.  The
 assumptions we are making here are starting to pile up and I have only run 1 command!
 
+This is a perfectly good reason why engineers like myself prefer open source 
+solutions.  Getting someone at Dell/EMC to fix this is a nightmare.  It can take
+many hours of meetings, email chains, screenshots, text files to prove what I'm saying,
+convincing several layers of people I am correct and finally getting engineering to
+patch it. If it was open source I could submit a pull request and argue about why the 
+API should be changed. It cuts right to the chase and I engage the developers first instead of last.  
+
 Stay tuned for the next in a series of terrible REST API's where we explore an API that
 uses CSV over REST.  Yes you read that correctly.
